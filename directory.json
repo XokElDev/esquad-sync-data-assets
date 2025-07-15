@@ -2,11 +2,11 @@
   {
     "teamId": "koi",
     "teamName": "KOI",
-    "logoUrl": "https://raw.githubusercontent.com/tu-usuario/esquad-sync-data/main/logos/koi.png"
+    "logoUrl": "https://github.com/XokElDev/esquad-sync-data-assets/blob/36165e57235a695b041ae16300fb11ba9781b34b/logos/koi_logo_small_png.png"
   },
   {
     "teamId": "g2",
     "teamName": "G2 Esports",
-    "logoUrl": "https://raw.githubusercontent.com/tu-usuario/esquad-sync-data/main/logos/g2.png"
+    "logoUrl": "https://github.com/XokElDev/esquad-sync-data-assets/blob/36165e57235a695b041ae16300fb11ba9781b34b/logos/g2_logo_small_png.png"
   }
 ]
