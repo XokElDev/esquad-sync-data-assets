@@ -1,0 +1,12 @@
+[
+  {
+    "teamId": "koi",
+    "teamName": "KOI",
+    "logoUrl": "https://raw.githubusercontent.com/tu-usuario/esquad-sync-data/main/logos/koi.png"
+  },
+  {
+    "teamId": "g2",
+    "teamName": "G2 Esports",
+    "logoUrl": "https://raw.githubusercontent.com/tu-usuario/esquad-sync-data/main/logos/g2.png"
+  }
+]
